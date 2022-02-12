@@ -1,0 +1,13 @@
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.exe
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.deps.json
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.runtimeconfig.json
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.runtimeconfig.dev.json
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.dll
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\bin\Debug\netcoreapp3.1\Neuron.pdb
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.csprojAssemblyReference.cache
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.AssemblyInfoInputs.cache
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.AssemblyInfo.cs
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.dll
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.pdb
+C:\Users\StepanS\Desktop\NeuroComp\first\Neuron\Neuron\obj\Debug\netcoreapp3.1\Neuron.genruntimeconfig.cache
