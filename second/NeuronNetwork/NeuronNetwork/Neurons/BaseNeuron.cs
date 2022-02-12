@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Neuron.Functions;
+using NeuronNetwork.Functions;
 
-namespace Neuron.Neurons
+namespace NeuronNetwork.Neurons
 {
     class BaseNeuron
     {
-        public double[] _inputVector { get; set; }
-        public double[] _weightVector { get; set; }
-        public double _bias { get; set; }
+        double[] _inputVector;
+        double[] _weightVector;
+        double _bias = 0;
         Random random = new Random();
 
         BaseFunction _function;
@@ -27,7 +27,7 @@ namespace Neuron.Neurons
         private double[] ModifyInput()
         {
             double[] result = new double[_weightVector.Length];
-            for (int i = 0; i < _weightVector.Length; i++)
+            for(int i = 0;i<_weightVector.Length;i++)
             {
                 result[i] = _inputVector[i] * _weightVector[i];
             }
@@ -36,11 +36,11 @@ namespace Neuron.Neurons
         private double Summarize(double[] modified_input)
         {
             double sum = 0;
-            for (int i = 0; i < modified_input.Length; i++)
+            for(int i=0;i<modified_input.Length;i++)
             {
                 sum += modified_input[i];
             }
-            if (_bias != 0)
+            if(_bias != 0)
             {
                 sum += _bias;
             }
@@ -54,7 +54,7 @@ namespace Neuron.Neurons
         private double[] RandomizeWeights(int length)
         {
             double[] result = new double[length];
-            for (int i = 0; i < 0; i++)
+            for(int i = 0;i<0;i++)
             {
                 result[i] = random.NextDouble();
             }
