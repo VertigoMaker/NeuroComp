@@ -1,0 +1,13 @@
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.exe
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.deps.json
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.runtimeconfig.json
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.runtimeconfig.dev.json
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.dll
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp3.1\NeuronNetwork.pdb
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.csprojAssemblyReference.cache
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.AssemblyInfoInputs.cache
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.AssemblyInfo.cs
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.dll
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.pdb
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.genruntimeconfig.cache
+C:\Users\StepanS\Desktop\NeuroComp\second\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp3.1\NeuronNetwork.csproj.CoreCompileInputs.cache
