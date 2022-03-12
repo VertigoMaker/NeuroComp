@@ -6,7 +6,7 @@ using NeuronNetwork.Neurons;
 
 namespace NeuronNetwork.NeuronNetworks
 {
-    class ConvolutionalNN
+    class ConvolutionalNN : IBaseNN
     {
         public List<BaseNeuron> _neurons { get; set; }
 
@@ -15,9 +15,9 @@ namespace NeuronNetwork.NeuronNetworks
             _neurons = neurons;
         }
 
-        public double[] GetOutput()
+        public List<double> GetOutput()
         {
-            return _neurons.Select(neuron => neuron.CalculateOutput()).ToArray();
+            return _neurons.Select(neuron => neuron.CalculateOutput()).ToList();
         }
 
     }

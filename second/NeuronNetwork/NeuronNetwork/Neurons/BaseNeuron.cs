@@ -12,6 +12,8 @@ namespace NeuronNetwork.Neurons
         public  double _bias { get; set; }
         Random random = new Random();
 
+        private double function_type { get; set; }
+
         public BaseFunction _function;
         double _output;
 
